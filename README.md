@@ -162,4 +162,3 @@ streamlit run app.py
 
 M.Sc. Data Science Student
 
-If you found this project useful, consider giving it a ⭐ on GitHub!
