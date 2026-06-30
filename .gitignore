@@ -1,0 +1,16 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+rag_env/
+venv/
+
+# Environment variables
+.env
+
+# Generated vector database (optional)
+database/
+
+# Streamlit cache
+.streamlit/
