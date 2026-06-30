@@ -18,7 +18,7 @@ Mini RAG Studio allows users to upload PDF documents, build a vector database, a
 
 ### 📚 Retrieved Chunks
 
-![Retrieved Chunks](assets/retrieved-chunks.png)
+![Retrieved Chunks](assets/retrieved_chunks.png)
 
 ---
 
